@@ -1,0 +1,7 @@
+[package]
+name = "E-140W-P_TelecomAdmin"
+version = "0.1.0"
+authors = ["Jiasheng Shi <jiasheng.shi@iluvatar.ai>"]
+edition = "2018"
+
+[dependencies]
