@@ -1,7 +1,8 @@
 [package]
-name = "E-140W-P_TelecomAdmin"
+name = "e_140w_p_passwd"
 version = "0.1.0"
-authors = ["Jiasheng Shi <jiasheng.shi@iluvatar.ai>"]
+authors = ["Jiasheng Shi <jiasheng@live.com>"]
 edition = "2018"
 
 [dependencies]
+reqwest = "0.9.13"
