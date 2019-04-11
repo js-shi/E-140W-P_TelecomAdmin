@@ -6,3 +6,5 @@ edition = "2018"
 
 [dependencies]
 reqwest = "0.9.13"
+lzw = "0.10.0"
+quick-xml = "0.14.0"
